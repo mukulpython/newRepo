@@ -1,0 +1,11 @@
+.component {
+    width: 700px;
+    background-color: white;
+    
+  }
+  
+
+.bg {
+  background-image: url("./cr.jpg") ;
+  height: 650px;
+}
